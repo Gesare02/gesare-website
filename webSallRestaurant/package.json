@@ -1,0 +1,19 @@
+{
+  "name": "cheza_web",
+  "version": "1.0.0",
+  "description": "cheza469 website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ericokim/cheza_website.git"
+  },
+  "author": "Eric Kimathi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ericokim/cheza_website/issues"
+  },
+  "homepage": "https://github.com/Ericokim/cheza_website#readme"
+}
